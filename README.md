@@ -5,7 +5,7 @@ To ensure that code, a program, or software is functional and secure, you want t
 ----------------------------------------------------------------------------------------------------
 * How do I interpret user needs and incorporate them into a program?
 
-Start by talking to users and observing how they currently solve the problem to understand their goals and frustrations. Turn your observations into simple user stories such as, “As a student, I want X so that Y.” Build and prototype incrementally, tweaking the system based on feedback.
+Start by talking to users and observing how they currently solve the problem to understand their goals and frustrations. Turn your observations into simple user stories such as, “As a student, I want X so that Y.” Build and prototype incrementally, refining the system based on feedback.
 
 ----------------------------------------------------------------------------------------------------
 * How do I approach designing software?
