@@ -1,6 +1,6 @@
 * How can I ensure that my code, program, or software is functional and secure?
 
-To ensure that my code, program, or software is functional and secure, you want to first clearly outline what the software should do. Then write automated tests to verify it behaves the way that it should. Use continuous integration to run these checks frequently, and add logging and monitoring to catch issues in production. For security, validate inputs, scan for dependencies, and apply least privilege access controls. Regular reviews, updates, and threat assessments helps the system resist attacks.
+To ensure that code, program, or software is functional and secure, you want to first clearly outline what the software should do. Then write automated tests to verify it behaves the way that it should. Use continuous integration to run these checks frequently, and add logging and monitoring to catch issues in production. For security, validate inputs, scan for dependencies, and apply least privilege access controls. Regular reviews, updates, and threat assessments helps the system resist attacks.
 
 ----------------------------------------------------------------------------------------------------
 * How do I interpret user needs and incorporate them into a program?
